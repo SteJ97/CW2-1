@@ -1,7 +1,7 @@
 [
   {
     "Name": "Undergraduate",
-    "Course":"Web Development",
+    "Course":"10",
     "Time":"10",
     "Module": {
       "Learning_outcomes":["LO1", "LO2"],
