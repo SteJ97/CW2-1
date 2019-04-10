@@ -1,36 +1,41 @@
 [
   {
+    "ID": "1",
     "Name": "Undergraduate",
-    "Course":"Web Development",
-    "Time":"10",
+    "Course":"Web Development",   
     "Module": {
       "Learning_outcomes":["LO1", "LO2"],
       "Assignment":["CW1", "CW2"],
       "Volume":["1000 words", "4000 words"],
       "weights":["20%", "80%"],
-      "Day": ["Monday", "Wednesday"]
+      "Day": ["Monday", "Wednesday"],
+      "Time: [10am, 1pm]
     }
   },
   {
-    "Name": "Post-Graduate",
-    "Course":"Big Data",
-    "Time":"10",
-    "Module": {
-    "Learning_outcomes":["LO1", "LO2"],
-    "Assignment":["CW1", "CW2"],
-    "Volume":["1000 words", "4000 words"],
-    "weights":["20%", "80%"]      
-    }
-  },
-  {
-    "Name": "Research",
-    "Course":"Data Mining",
-    "Time":"10",
+    "ID": "2",
+    "Name": "Undergraduate",
+    "Course":"Computer Science",   
     "Module": {
       "Learning_outcomes":["LO1", "LO2"],
       "Assignment":["CW1", "CW2"],
       "Volume":["1000 words", "4000 words"],
-      "weights":["20%", "80%"]      
+      "weights":["20%", "80%"],
+      "Day": ["Monday", "Thursday"],
+      "Time: [12am, 3pm]
+    }
+  },
+  {
+    "ID": "3",
+    "Name": "Undergraduate",
+    "Course":"Database Design",   
+    "Module": {
+      "Learning_outcomes":["LO1", "LO2"],
+      "Assignment":["CW1", "CW2"],
+      "Volume":["1000 words", "4000 words"],
+      "weights":["20%", "80%"],
+      "Day": ["Tuesday"],
+      "Time: [9am]    
     }
   }
   
