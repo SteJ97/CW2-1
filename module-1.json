@@ -14,7 +14,7 @@
   },
   {
     "ID": "2",
-    "Name": "Undergraduate",
+    "Name": "1Undergraduate",
     "Course":"Computer Science",   
     "Module": {
       "Learning_outcomes":["LO1", "LO2"],
@@ -27,7 +27,7 @@
   },
   {
     "ID": "3",
-    "Name": "Undergraduate",
+    "Name": "2Undergraduate",
     "Course":"Database Design",   
     "Module": {
       "Learning_outcomes":["LO1", "LO2"],
