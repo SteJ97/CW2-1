@@ -9,7 +9,7 @@
       "Volume":["1000 words", "4000 words"],
       "weights":["20%", "80%"],
       "Day": ["Monday", "Wednesday"],
-      "Time": ["10am", "1pm"],        
+      "Time": ["10am", "1pm"]        
     }
   },
   {    
