@@ -9,8 +9,9 @@
       "Volume":["1000 words", "4000 words"],
       "weights":["20%", "80%"],
       "Day": ["Monday", "Wednesday"],
-      "Time": ["10am", "1pm"],
+      "Time": ["10am", "1pm"],  
       
+      "Module": {
       "ID": "4", 
       "Name":["test"],
       "Learning_outcomes":["LO1", "LO2"],
@@ -18,7 +19,7 @@
       "Volume":["1000 words", "4000 words"],
       "weights":["20%", "80%"],
       "Day": ["Monday", "Wednesday"],
-      "Time": ["10am", "1pm"]
+      "Time": ["10am", "1pm"],  
     }
   },
   {    
