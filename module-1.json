@@ -9,6 +9,15 @@
       "Volume":["1000 words", "4000 words"],
       "weights":["20%", "80%"],
       "Day": ["Monday", "Wednesday"],
+      "Time": ["10am", "1pm"],
+      
+      "ID": "1", 
+      "Name":["Web Coding"],
+      "Learning_outcomes":["LO1", "LO2"],
+      "Assignment":["CW1", "CW2"],
+      "Volume":["1000 words", "4000 words"],
+      "weights":["20%", "80%"],
+      "Day": ["Monday", "Wednesday"],
       "Time": ["10am", "1pm"]
     }
   },
