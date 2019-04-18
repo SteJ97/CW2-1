@@ -3,7 +3,7 @@
     "Course":"Web Development",    
     "Module": {
       "ID": "1", 
-      "Name":["Web Coding"],
+      "Name":"Web Coding",
       "Learning_outcomes":["LO1", "LO2"],
       "Assignment":["CW1", "CW2"],
       "Volume":["1000 words", "4000 words"],
@@ -16,7 +16,7 @@
     "Course":"Computer Science",       
     "Module": {
       "ID": "2",  
-      "Name":["Hardware"],
+      "Name":"Hardware",
       "Learning_outcomes":["LO1", "LO2"],
       "Assignment":["CW1", "CW2"],
       "Volume":["1000 words", "4000 words"],
@@ -26,7 +26,7 @@
     }
   },
   {       
-    "Course":["Database Design"],     
+    "Course":"Database Design",     
     "Module": {
       "ID": "3", 
       "Name":"Python",
