@@ -8,7 +8,7 @@
       "Volume":["1000 words", "4000 words"],
       "weights":["20%", "80%"],
       "Day": ["Monday", "Wednesday"],
-      "Time": ["10am", "1"]
+      "Time": ["10am", "1pm"]
     }
   },
   {
@@ -20,7 +20,7 @@
       "Volume":["1000 words", "4000 words"],
       "weights":["20%", "80%"],
       "Day": ["Monday", "Thursday"],
-      "Time": ["12am", "3am"]
+      "Time": ["12am", "3pm"]
     }
   },
   {
