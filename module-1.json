@@ -1,7 +1,6 @@
 [
   {
-    "ID": "1",
-    "Name": "Undergraduate",
+    "ID": "1",    
     "Course":"Web Development",   
     "Module": {
       "Learning_outcomes":["LO1", "LO2"],
@@ -9,12 +8,11 @@
       "Volume":["1000 words", "4000 words"],
       "weights":["20%", "80%"],
       "Day": ["Monday", "Wednesday"],
-      "Time": ["10", "1"]
+      "Time": ["10am", "1"]
     }
   },
   {
-    "ID": "2",
-    "Name": "Undergraduate",
+    "ID": "2",    
     "Course":"Computer Science",   
     "Module": {
       "Learning_outcomes":["LO1", "LO2"],
@@ -22,12 +20,11 @@
       "Volume":["1000 words", "4000 words"],
       "weights":["20%", "80%"],
       "Day": ["Monday", "Thursday"],
-      "Time": ["12", "3"]
+      "Time": ["12am", "3am"]
     }
   },
   {
-    "ID": "3",
-    "Name": "Undergraduate",
+    "ID": "3",    
     "Course":"Database Design",   
     "Module": {
       "Learning_outcomes":["LO1", "LO2"],
@@ -35,7 +32,7 @@
       "Volume":["1000 words", "4000 words"],
       "weights":["20%", "80%"],
       "Day": ["Tuesday"],
-      "Time": ["9"]    
+      "Time": ["9am"]    
     }
   }
   
