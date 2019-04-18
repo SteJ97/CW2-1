@@ -1,8 +1,8 @@
 [
-  {
-    "ID": "1",    
+  {       
     "Course":"Web Development",    
     "Module": {
+      "ID": "1", 
       "Name":["Web Coding"],
       "Learning_outcomes":["LO1", "LO2"],
       "Assignment":["CW1", "CW2"],
@@ -12,10 +12,10 @@
       "Time": ["10am", "1pm"]
     }
   },
-  {
-    "ID": "2",    
+  {    
     "Course":"Computer Science",       
     "Module": {
+      "ID": "2",  
       "Name":["Hardware"],
       "Learning_outcomes":["LO1", "LO2"],
       "Assignment":["CW1", "CW2"],
@@ -25,10 +25,10 @@
       "Time": ["12am", "3pm"]
     }
   },
-  {
-    "ID": "3",    
+  {       
     "Course":["Database Design"],     
     "Module": {
+      "ID": "3", 
       "Name":"Python",
       "Learning_outcomes":["LO1", "LO2"],
       "Assignment":["CW1", "CW2"],
