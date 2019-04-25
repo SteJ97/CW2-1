@@ -17,9 +17,9 @@
     "Module": {
       "ID": "2",  
       "Name":"Hardware",
-      "Learning_outcomes":["LO1", "LO2"],
-      "Assignment":["CW1", "CW2"],
-      "Volume":["1000 words", "4000 words"],
+      "Learning_outcomes":["LO1"],
+      "Assignment":["CW1"],
+      "Volume":["1000 words", "3000 words"],
       "weights":["20%", "80%"],
       "Day": ["Monday", "Thursday"],
       "Time": ["12am", "3pm"]
@@ -32,8 +32,8 @@
       "Name":"Python",
       "Learning_outcomes":["LO1", "LO2"],
       "Assignment":["CW1", "CW2"],
-      "Volume":["1000 words", "4000 words"],
-      "weights":["20%", "80%"],
+      "Volume":["1000 words", "2000 words"],
+      "weights":["30%", "70%"],
       "Day": ["Tuesday"],
       "Time": ["9am"]    
     }
