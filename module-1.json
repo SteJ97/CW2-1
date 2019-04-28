@@ -10,7 +10,7 @@
       "weights":["20%", "80%"],
       "Day": ["Monday", "Wednesday"],
       "Time": ["10am", "1pm"]        
-    }1
+    }
   },
   {    
     "Course":"Computer Science",       
